@@ -69,3 +69,9 @@ will make it possible to build **distributed fitness
 function for Python library evolution**. Function that
 uses humans and their current intentions to select the
 **best fit**.
+
+
+#### Bits and pieces
+
+* https://github.com/techtonik/transpilery - attempt to gather snippets for the same purpose in different languages
+* 
