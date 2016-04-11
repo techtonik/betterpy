@@ -73,5 +73,6 @@ uses humans and their current intentions to select the
 
 #### Bits and pieces
 
-* https://github.com/techtonik/transpilery - attempt to gather snippets for the same purpose in different languages
-* 
+* https://github.com/techtonik/transpilery - gathering
+  snippets for same purpose in different languages
+
